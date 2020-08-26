@@ -1,0 +1,8 @@
+package com.sunhawk.serialporttools;
+
+import android.app.Application;
+
+public class App extends Application {
+
+
+}
